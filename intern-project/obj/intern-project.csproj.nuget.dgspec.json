@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj": {}
+    "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj": {
+    "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+        "projectUniqueName": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj",
         "projectName": "intern-project",
-        "projectPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+        "projectPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj",
         "packagesPath": "C:\\Users\\ThomasLoftus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\obj\\",
+        "outputPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

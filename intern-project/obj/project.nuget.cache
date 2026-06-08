@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4EvOp+m0qus=",
+  "dgSpecHash": "WggCAX7burM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+  "projectFilePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThomasLoftus\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\ThomasLoftus\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -142,9 +142,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.Extensions.Validation will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+      "projectPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+      "filePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj",
       "libraryId": "Microsoft.Extensions.Validation",
       "targetGraphs": [
         "net10.0"
@@ -154,9 +154,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+      "projectPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+      "filePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -166,9 +166,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+      "projectPath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\.net-intern-repo\\intern-project\\intern-project.csproj",
+      "filePath": "C:\\Users\\ThomasLoftus\\OneDrive - Ogilvy\\Documents\\Intern Samples\\ASP.NET-tutorial-sample\\intern-project\\intern-project.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"
